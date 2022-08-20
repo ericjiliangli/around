@@ -1,2 +1,2 @@
 # around
-A cloud and react based social network with Go
+A Cloud and React based social network with Go
